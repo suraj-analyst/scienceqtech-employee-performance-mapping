@@ -1,29 +1,28 @@
-# ScienceQtech Employee Performance Mapping
+## Database Objects Used
 
-## Project Overview
-This project analyzes employee performance data using SQL.
-
-## Tools Used
-- MySQL
-- SQL
-
-## Concepts Covered
-- SELECT
-- WHERE
-- GROUP BY
-- ORDER BY
-- JOINS
-- VIEWS
-- STORED PROCEDURES
+- Tables
+- Views
+- Stored Procedures
+- Functions
 - CASE Statements
 
-## Project Files
-- ScienceQtech_Project.sql
-- Source Code PDF
-- Project Screenshots
+## Key Analysis Performed
+
+1. Employee Rating Analysis
+2. Department-wise Performance Analysis
+3. Manager Reporting Structure
+4. Salary Analysis
+5. Experience-based Employee Categorization
+
+## Learning Outcomes
+
+- Writing complex SQL queries
+- Using joins effectively
+- Creating views and stored procedures
+- Data analysis using SQL
 
 ## Author
+
 Suraj Rajput
 
-## GitHub Profile
-Aspiring Data Analyst | Learning SQL, Python, Machine Learning# scienceqtech-employee-performance-mapping
+Data Researcher | Aspiring Data Analyst
